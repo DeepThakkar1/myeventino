@@ -1,0 +1,36 @@
+@media (max-width: 480px) {
+
+#titlebar.property-titlebar {
+    padding-top: 4px;
+    padding-bottom: 15px;
+}
+
+ .fullwidth-layout{
+    	padding-top: 0px;
+    }
+
+}
+
+
+.my-account-nav li {
+    list-style: none;
+    padding: 5px 0 5px 0;
+    margin: 0;
+    font-size: 17px;
+}
+
+#account-nav {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.my-account-nav {
+    padding: 0 15px;
+    padding-bottom: 20px;
+}
+
+.my-account-nav-container {
+ 
+ padding-top: 10px;
+
+}
